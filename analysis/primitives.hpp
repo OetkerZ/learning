@@ -8,7 +8,7 @@ namespace analysis{
         constant(double value):c(value){}
         
         double operator()(double x) const{
-            return c:
+            return c;
         }
     private:
         double c;

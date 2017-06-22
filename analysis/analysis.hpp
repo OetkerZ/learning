@@ -4,4 +4,4 @@
 #include "product.hpp"
 #include "polynomial.hpp"
 #include "integration.hpp"
-#include "function.hpp"
+#include "functions.hpp"
